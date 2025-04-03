@@ -1,5 +1,4 @@
 ## Rule Numbering Note
-**Context:**  
 The paper uses consecutive numbering for the rules to enhance readability. Note that this numbering does not align with the complete version in this repository.
 ### Rationale & Usage Guidance
 1. **Why the mismatch?**  
