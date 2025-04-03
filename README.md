@@ -1,1 +1,8 @@
-Please note: The rules in the paper are numbered consecutively for clarity and consistency. However, their numbering differs from the complete version (also consecutively numbered) in this repository.
+## Rule Numbering Note
+**Context:**  
+The paper uses consecutive numbering for the rules to enhance readability. Note that this numbering does not align with the complete version in this repository.
+### Rationale & Usage Guidance
+1. **Why the mismatch?**  
+   - The main paper extracts a rule subset for conciseness, while the repository maintains the full logical structure.
+2. **How to cross-reference?**  
+   - Use **rule name** (not numbers) as the primary key when comparing versions.
